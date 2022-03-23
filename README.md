@@ -13,7 +13,7 @@ The dashboard should include:
 - a horizontal bar chart with the ten most abundant bacterial species,
 - a bubble chart with all of the baterial species represented by circles whose relative size reflects the ammount of bateria in their sample,
 - a gauge chart that displays the reported number of weekly navel washes, and
--customizations to improve the appearance and functionality of the dashboard.
+- customizations to improve the appearance and functionality of the dashboard.
 
 
 ### Resources
