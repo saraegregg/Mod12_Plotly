@@ -25,13 +25,12 @@ The dashboard should include:
 
 ### Challenge Results
 I customized several features of the dashboard including:
-    - adding a background image to the "jumbotron"
-    - changing the text formatting and color scheme
-    - changing the page background and the gauge colors to fit the overall color scheme
+- adding a background image to the "jumbotron"
+- changing the text formatting and color scheme
+- changing the page background and the gauge colors to fit the overall color scheme
 
-![FilteredTable.png](https://github.com/saraegregg/Mod11_UFOs/blob/main/static/images/FilteredTable.png)
+![dashboard1.png](https://github.com/saraegregg/Mod12_Plotly/blob/main/static/images/dashboard1.png)
 
-When a filter box is cleared of text, that filter is also removed from the table. After removing any filters that may have been added, the entire table is displayed.
-![UnfilteredTable.png](https://github.com/saraegregg/Mod11_UFOs/blob/main/static/images/UnfilteredTable.png)
+![dashboard2.png](https://github.com/saraegregg/Mod12_Plotly/blob/main/static/images/dashboard2.png)
 
 
