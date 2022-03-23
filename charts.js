@@ -66,9 +66,9 @@ function buildCharts(sample) {
     var sampleResult = selSampleArray[0];
 
     // 6. Create variables that hold the otu_ids, otu_labels, and sample_values.
-    var otu_ids = sampleResult.otu_ids
-    var otu_labels = sampleResult.otu_labels
-    var sample_values = sampleResult.sample_values
+    var otu_ids = sampleResult.otu_ids;
+    var otu_labels = sampleResult.otu_labels;
+    var sample_values = sampleResult.sample_values;
     
     var top_otu_ids = otu_ids.slice(0.10).reverse();
     var top_otu_labels = otu_labels.slice(0,10).reverse();
