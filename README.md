@@ -1,5 +1,3 @@
-# Module 12 Challenge
-
 ---
 ## Belly Button Biodiversity Dashboard
 ---
